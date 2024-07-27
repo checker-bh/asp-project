@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BAHRAIN_TOURSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="company_id" />
+    </Key>
+    <Property Name="company_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="company_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="companyLocation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="contact_person" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="contact_email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="companyType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="user_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Review">
+    <Key>
+      <PropertyRef Name="review_id" />
+    </Key>
+    <Property Name="review_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tourists_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="tour_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="rating" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="comment" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Tour">
+    <Key>
+      <PropertyRef Name="tour_id" />
+    </Key>
+    <Property Name="tour_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tour_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ReservationNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="packageType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="paymentType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="decription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="start_date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="end_date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="price" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="company_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="guide_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Tourist">
+    <Key>
+      <PropertyRef Name="tourist_id" />
+    </Key>
+    <Property Name="tourist_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="full_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="nationality" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="date_of_birth" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="contact_email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="tour_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PassWord" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserAddress" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="UserPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserEmail" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="BAHRAIN_TOURSEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Companies" EntityType="Self.Company" />
+    <EntitySet Name="Reviews" EntityType="Self.Review" />
+    <EntitySet Name="Tours" EntityType="Self.Tour" />
+    <EntitySet Name="Tourists" EntityType="Self.Tourist" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="BAHRAIN_TOURSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Company">
+          <Key>
+            <PropertyRef Name="company_id" />
+          </Key>
+          <Property Name="company_id" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="company_name" Type="varchar" MaxLength="50" />
+          <Property Name="companyLocation" Type="varchar" MaxLength="50" />
+          <Property Name="contact_person" Type="varchar" MaxLength="50" />
+          <Property Name="contact_email" Type="varchar" MaxLength="50" />
+          <Property Name="companyType" Type="varchar" MaxLength="50" />
+          <Property Name="user_id" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Review">
+          <Key>
+            <PropertyRef Name="review_id" />
+          </Key>
+          <Property Name="review_id" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="tourists_id" Type="varchar" MaxLength="50" />
+          <Property Name="tour_id" Type="varchar" MaxLength="50" />
+          <Property Name="rating" Type="varchar" MaxLength="50" />
+          <Property Name="comment" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Tour">
+          <Key>
+            <PropertyRef Name="tour_id" />
+          </Key>
+          <Property Name="tour_id" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="tour_name" Type="varchar" MaxLength="50" />
+          <Property Name="ReservationNo" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="packageType" Type="varchar" MaxLength="50" />
+          <Property Name="paymentType" Type="varchar" MaxLength="50" />
+          <Property Name="decription" Type="varchar" MaxLength="50" />
+          <Property Name="start_date" Type="varchar" MaxLength="50" />
+          <Property Name="end_date" Type="varchar" MaxLength="50" />
+          <Property Name="price" Type="varchar" MaxLength="50" />
+          <Property Name="company_id" Type="varchar" MaxLength="50" />
+          <Property Name="guide_id" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Tourist">
+          <Key>
+            <PropertyRef Name="tourist_id" />
+          </Key>
+          <Property Name="tourist_id" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="full_name" Type="varchar" MaxLength="50" />
+          <Property Name="nationality" Type="varchar" MaxLength="50" />
+          <Property Name="date_of_birth" Type="varchar" MaxLength="50" />
+          <Property Name="contact_email" Type="varchar" MaxLength="50" />
+          <Property Name="tour_id" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="UserName" />
+          </Key>
+          <Property Name="UserName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="PassWord" Type="nvarchar" MaxLength="50" />
+          <Property Name="UserAddress" Type="nvarchar" MaxLength="150" />
+          <Property Name="UserPhone" Type="nvarchar" MaxLength="50" />
+          <Property Name="UserEmail" Type="nvarchar" MaxLength="150" />
+        </EntityType>
+        <EntityContainer Name="BAHRAIN_TOURSModelStoreContainer">
+          <EntitySet Name="Company" EntityType="Self.Company" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Review" EntityType="Self.Review" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tour" EntityType="Self.Tour" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tourist" EntityType="Self.Tourist" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BAHRAIN_TOURSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Company">
+          <Key>
+            <PropertyRef Name="company_id" />
+          </Key>
+          <Property Name="company_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="company_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="companyLocation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="contact_person" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="contact_email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="companyType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="user_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Review">
+          <Key>
+            <PropertyRef Name="review_id" />
+          </Key>
+          <Property Name="review_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="tourists_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="tour_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="rating" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="comment" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Tour">
+          <Key>
+            <PropertyRef Name="tour_id" />
+          </Key>
+          <Property Name="tour_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="tour_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ReservationNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="packageType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="paymentType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="decription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="start_date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="end_date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="price" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="company_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="guide_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Tourist">
+          <Key>
+            <PropertyRef Name="tourist_id" />
+          </Key>
+          <Property Name="tourist_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="full_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="nationality" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="date_of_birth" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="contact_email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="tour_id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="UserName" />
+          </Key>
+          <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PassWord" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UserAddress" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="UserPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UserEmail" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="BAHRAIN_TOURSEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Companies" EntityType="Self.Company" />
+          <EntitySet Name="Reviews" EntityType="Self.Review" />
+          <EntitySet Name="Tours" EntityType="Self.Tour" />
+          <EntitySet Name="Tourists" EntityType="Self.Tourist" />
+          <EntitySet Name="Users" EntityType="Self.User" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BAHRAIN_TOURSModelStoreContainer" CdmEntityContainer="BAHRAIN_TOURSEntities1">
+          <EntitySetMapping Name="Companies">
+            <EntityTypeMapping TypeName="BAHRAIN_TOURSModel.Company">
+              <MappingFragment StoreEntitySet="Company">
+                <ScalarProperty Name="company_id" ColumnName="company_id" />
+                <ScalarProperty Name="company_name" ColumnName="company_name" />
+                <ScalarProperty Name="companyLocation" ColumnName="companyLocation" />
+                <ScalarProperty Name="contact_person" ColumnName="contact_person" />
+                <ScalarProperty Name="contact_email" ColumnName="contact_email" />
+                <ScalarProperty Name="companyType" ColumnName="companyType" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Reviews">
+            <EntityTypeMapping TypeName="BAHRAIN_TOURSModel.Review">
+              <MappingFragment StoreEntitySet="Review">
+                <ScalarProperty Name="review_id" ColumnName="review_id" />
+                <ScalarProperty Name="tourists_id" ColumnName="tourists_id" />
+                <ScalarProperty Name="tour_id" ColumnName="tour_id" />
+                <ScalarProperty Name="rating" ColumnName="rating" />
+                <ScalarProperty Name="comment" ColumnName="comment" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tours">
+            <EntityTypeMapping TypeName="BAHRAIN_TOURSModel.Tour">
+              <MappingFragment StoreEntitySet="Tour">
+                <ScalarProperty Name="tour_id" ColumnName="tour_id" />
+                <ScalarProperty Name="tour_name" ColumnName="tour_name" />
+                <ScalarProperty Name="ReservationNo" ColumnName="ReservationNo" />
+                <ScalarProperty Name="packageType" ColumnName="packageType" />
+                <ScalarProperty Name="paymentType" ColumnName="paymentType" />
+                <ScalarProperty Name="decription" ColumnName="decription" />
+                <ScalarProperty Name="start_date" ColumnName="start_date" />
+                <ScalarProperty Name="end_date" ColumnName="end_date" />
+                <ScalarProperty Name="price" ColumnName="price" />
+                <ScalarProperty Name="company_id" ColumnName="company_id" />
+                <ScalarProperty Name="guide_id" ColumnName="guide_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tourists">
+            <EntityTypeMapping TypeName="BAHRAIN_TOURSModel.Tourist">
+              <MappingFragment StoreEntitySet="Tourist">
+                <ScalarProperty Name="tourist_id" ColumnName="tourist_id" />
+                <ScalarProperty Name="full_name" ColumnName="full_name" />
+                <ScalarProperty Name="nationality" ColumnName="nationality" />
+                <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+                <ScalarProperty Name="contact_email" ColumnName="contact_email" />
+                <ScalarProperty Name="tour_id" ColumnName="tour_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="BAHRAIN_TOURSModel.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="PassWord" ColumnName="PassWord" />
+                <ScalarProperty Name="UserAddress" ColumnName="UserAddress" />
+                <ScalarProperty Name="UserPhone" ColumnName="UserPhone" />
+                <ScalarProperty Name="UserEmail" ColumnName="UserEmail" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

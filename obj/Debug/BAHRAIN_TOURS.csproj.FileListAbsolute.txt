@@ -1,0 +1,622 @@
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CopyComplete
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\BAHRAIN_TOURS\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CopyComplete
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\backup\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CopyComplete
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\backup\12-03-2024\5-12-2023\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\last update\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\4-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\14-4-2024 done all sql\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\17-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\19-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\22-4-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll.config
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\BAHRAIN_TOURS.pdb
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\EntityFramework.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\EntityFramework.xml
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_.B2398FD5.Up2Date
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.dll
+C:\Users\ahmed\source\repos\23-04-2024\BAHRAIN_TOURS\obj\Debug\BAHRAIN_TOURS.pdb
